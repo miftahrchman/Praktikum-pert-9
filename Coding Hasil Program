@@ -1,0 +1,72 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/user/Documents/kuliah upb/Sem 3/Program Komputer/Pertemuan 9/Praktikum pertemuan 9.py 
+Masukkan nama mahasiswa: Adrian
+Masukkan NIM mahasiswa: 35264
+Masukkan nilai tugas: 82
+Masukkan nilai UTS: 87
+Masukkan nilai UAS: 84
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Miftah
+Masukkan NIM mahasiswa: 35265
+Masukkan nilai tugas: 87
+Masukkan nilai UTS: 93
+Masukkan nilai UAS: 95
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Alfin
+Masukkan NIM mahasiswa: 35266
+Masukkan nilai tugas: 78
+Masukkan nilai UTS: 89
+Masukkan nilai UAS: 83
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Fahmi
+Masukkan NIM mahasiswa: 35267
+Masukkan nilai tugas: 74
+Masukkan nilai UTS: 80
+Masukkan nilai UAS: 86
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Hega
+Masukkan NIM mahasiswa: 35268
+Masukkan nilai tugas: 87
+Masukkan nilai UTS: 91
+Masukkan nilai UAS: 89
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: April
+Masukkan NIM mahasiswa: 35269
+Masukkan nilai tugas: 84
+Masukkan nilai UTS: 93
+Masukkan nilai UAS: 82
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Adam
+Masukkan NIM mahasiswa: 35270
+Masukkan nilai tugas: 79
+Masukkan nilai UTS: 87
+Masukkan nilai UAS: 95
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Wildan
+Masukkan NIM mahasiswa: 35271
+Masukkan nilai tugas: 88
+Masukkan nilai UTS: 85
+Masukkan nilai UAS: 92
+Apakah Anda ingin menambah data? (y/t): y
+Masukkan nama mahasiswa: Rahmat
+Masukkan NIM mahasiswa: 35272
+Masukkan nilai tugas: 89
+Masukkan nilai UTS: 90
+Masukkan nilai UAS: 86
+Apakah Anda ingin menambah data? (y/t): t
+
+Daftar Mahasiswa:
+Nama                 NIM             Tugas      UTS        UAS        Nilai Akhir    
+================================================================================
+Adrian               35264           82.0       87.0       84.0       84.45          
+Miftah               35265           87.0       93.0       95.0       91.90          
+Alfin                35266           78.0       89.0       83.0       83.60          
+Fahmi                35267           74.0       80.0       86.0       80.30          
+Hega                 35268           87.0       91.0       89.0       89.10          
+April                35269           84.0       93.0       82.0       86.45          
+Adam                 35270           79.0       87.0       95.0       87.40          
+Wildan               35271           88.0       85.0       92.0       88.35          
+Rahmat               35272           89.0       90.0       86.0       88.30          
+>>> 
