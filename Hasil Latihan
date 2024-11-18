@@ -1,0 +1,14 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/user/Documents/kuliah upb/Sem 3/Program Komputer/Pertemuan 9/Latihan.py 
+Elemen ke-3: 30
+Elemen ke-2 sampai ke-4: [20, 30, 40]
+Elemen terakhir: 50
+Setelah mengubah elemen ke-4: [10, 20, 30, 45, 50]
+Setelah mengubah elemen ke-4 sampai terakhir: [10, 20, 30, 45, 55, 65]
+List B (2 elemen pertama dari A): [10, 20]
+Setelah menambah string ke B: [10, 20, 'Hello']
+Setelah menambah 3 nilai ke B: [10, 20, 'Hello', 30, 40, 50]
+Setelah menggabungkan B dengan A: [10, 20, 30, 45, 55, 65, 10, 20, 'Hello', 30, 40, 50]
+>>> 
