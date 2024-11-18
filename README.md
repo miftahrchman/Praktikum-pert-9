@@ -39,4 +39,9 @@ Langkah-langkah Program:
         Menampilkan header tabel.
         Menggunakan loop untuk mencetak setiap data mahasiswa dengan format yang rapi.
 
+FLOWCHART
+
+
+![image](https://github.com/user-attachments/assets/0fa8d88a-087f-4a2a-94c3-b98c60077b5b)
+
 
